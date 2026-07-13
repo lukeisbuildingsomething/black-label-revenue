@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #16130f;
+}
+
+body {
+  font-family: 'Instrument Sans', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
