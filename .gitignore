@@ -14,3 +14,6 @@ dist
 !.vscode/extensions.json
 .idea
 .DS_Store
+
+# TS build info
+*.tsbuildinfo
