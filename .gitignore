@@ -13,6 +13,9 @@ dist-ssr
 *.local
 *.tsbuildinfo
 
+# Tool caches
+.antigravitycli
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
